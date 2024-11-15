@@ -40,7 +40,7 @@
 <p>bash</p>
 </li>
 </ol>
-<p><code>git clone [https://github.com/pintu544/MovieSearchApp](https://github.com/pintu544/MovieSearchApp) cd movie-search-app</code></p>
+<p><code>git clone https://github.com/pintu544/MovieSearchApp/ cd MovieSearchApp</code></p>
 <ol start="2">
 <li>
 <p>Install dependencies:</p>
